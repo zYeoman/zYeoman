@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Don't Starve Together mods!
+- ~~🔭 I’m currently working on Don't Starve Together mods!~~
+- 🔭 I’m currently working on NPU Compiler!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zYeoman)](https://github.com/anuraghazra/github-readme-stats)
 
